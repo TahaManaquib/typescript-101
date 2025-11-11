@@ -1,4 +1,4 @@
-// goal -> understand when to let TS infer types and when to explicitly set them
+// inference - TS infers(understands) the type of a variable based on the value assigned to it
 
 let count = 0; // TS infers count to be a number
 
